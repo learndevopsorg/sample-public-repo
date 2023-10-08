@@ -1,5 +1,5 @@
 ## What is an API?
-```An API, which stands for application programming interface, is a set of protocols that enable different software components to communicate and transfer data. Developers use APIs to bridge the gaps between small, discrete chunks of code in order to create applications that are powerful, resilient, secure, and able to meet user needs. Even though you can't see them, APIs are everywhere—working continuously in the background to power the digital experiences that are essential to our modern lives.```
+``An API, which stands for application programming interface, is a set of protocols that enable different software components to communicate and transfer data. Developers use APIs to bridge the gaps between small, discrete chunks of code in order to create applications that are powerful, resilient, secure, and able to meet user needs. Even though you can't see them, APIs are everywhere—working continuously in the background to power the digital experiences that are essential to our modern lives.``
 
 Here, we'll give a high-level overview of how APIs work before reviewing the different types of APIs and how they are used. We'll also discuss some common use cases for APIs—and offer a few real-world API examples that can help you get started.
 
